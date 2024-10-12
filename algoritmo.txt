@@ -1,0 +1,8 @@
+## Começando um projeto pensando no passo a passo para analisar os cancelamentos da empresa ##
+Criando o algoritmo (passo a passo):
+
+Passo 1: Importar a base de dados
+Passo 2: Visualizar a base de dados
+Passo 3: Corrigir a base de dados
+Passo 4: Analisar os cancelamentos
+Passo 5: Analisar a possível causa dos cancelamentos
