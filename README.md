@@ -1,7 +1,7 @@
-Análise de Cancelamentos de Clientes
-=====================================
+# Projeto de Análise de Cancelamentos de Clientes
+------------------------------------------------
 
-Este projeto visa analisar os motivos de cancelamento de clientes de uma empresa de serviços. O objetivo é identificar padrões e tendências nos dados para ajudar a empresa a melhorar sua retenção de clientes.
+Este projeto visa analisar os motivos de cancelamento de clientes de uma empresa de serviços. O objetivo é identificar padrões e tendências nos dados para ajudar a empresa a melhorar sua retenção de clientes, usando python e bibliotecas para auxiliar na tarefa.
 
 Arquivos do Projeto
 main.py: Script Python que realiza a análise dos dados e gera gráficos para visualização.
